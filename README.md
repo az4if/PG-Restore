@@ -11,10 +11,6 @@
 
 <p align="center"><sub>Made by AziF</sub></p>
 
-<!-- Add a screenshot at docs/screenshot.png and uncomment the next line:
-![PG Restore screenshot](docs/screenshot.png)
--->
-
 ## What it does
 
 Pick a backup file, paste your database URL, click **Restore database**. That's it.
